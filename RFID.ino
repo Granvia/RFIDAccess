@@ -5,8 +5,8 @@
 #include <Servo.h>
 
 char auth[] = "***************************"; 
-char ssid[] = "Twig";
-char pass[] = "Butterking16";
+char ssid[] = "Nanda";
+char pass[] = "LancerEvo05";
 
 #define SDA_PIN D2 // mendefinisikan SDA pin ke D2
 #define RST_PIN D1 // mendefinisikan RST pin ke D1
